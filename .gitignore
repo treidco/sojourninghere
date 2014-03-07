@@ -4,6 +4,8 @@ build/
 .idea/
 *.iml
 
+target/
+
 *.class
 
 # Package Files #
