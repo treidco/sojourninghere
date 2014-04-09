@@ -1,2 +1,7 @@
 messages:
     hello: Hello World!
+
+mongo:
+    mongohost: localhost
+    mongoport: 27017
+    mongodb: mydb
