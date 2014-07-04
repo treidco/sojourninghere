@@ -1,4 +1,0 @@
-sojourninghere
-==============
-
-sojourninghere stuff
