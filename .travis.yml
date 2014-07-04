@@ -4,4 +4,4 @@ deploy:
   buildpack: scala
   app: sojourninghere
   api_key:
-    secure: aHXi4JF24EJwUpa3lYtdhs+KFhq+DEOoivUuUiSIeUbtyKGkptOUphmV4FC5y6NKUquH0CjaHdU8hISjva3aEgSCIoKwyvhkhceP+7sXe/e6iB5X72dOozM25X+HRgzTr8a8IeARjca4AtyBCx5rGLxgxKcqG5nUj5OwFKC29CU=
+    secure: USSpMqTEyFaXZFbjYjQmE8T7lno54/Gawp3d6Sac8DyAAQSK+atqwltKXDNYmPA+t+1IJQQLmyrZNUwWYzVEeo5q7INoxybRxMrFGXMKBtPFyr9dpxGkuWQAfy+M76NU+6WeTTn1aQ3PUT3l31+vO5+3w8gHmQiVOPhC14LcSsY=
